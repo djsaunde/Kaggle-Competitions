@@ -3,3 +3,6 @@
 
 # .jpg files
 *.jpg
+
+# .npy files
+*.npy
