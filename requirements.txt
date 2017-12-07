@@ -1,6 +1,5 @@
-ipython==6.2.1
+pandas==0.20.1
+matplotlib==2.0.2
+numpy==1.12.1
+torch==0.2.0.post2
 Pillow==4.3.0
-matplotlib==2.1.0
-numpy==1.13.3
-pandas==0.21.0
-torch==0.1.2.post1
